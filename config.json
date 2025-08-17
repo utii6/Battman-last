@@ -1,0 +1,10 @@
+{
+  "BOT_NAME": "Batman",
+  "BOT_TOKEN": "6217434623:AAE2uWujlffjWAG_pZuAIsNigRcSJFJmhuY",
+  "ADMIN_IDS": [5581457665],
+  "WEBHOOK_HOST": "https://battmanbo.onrender.com",
+  "WEBHOOK_SECRET": "CHANGE_ME_TO_A_LONG_RANDOM_SECRET_32CHARS_MIN",
+  "APP_PORT": 10000,
+  "CONTACT_URL": "https://t.me/e2E12",
+  "MAINTENANCE": false
+}
